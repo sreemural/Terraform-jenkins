@@ -7,3 +7,5 @@ variable "subnet_cidr_block" {}
 variable "env_prefix" {}
 
 variable "rt_cidr_block" {}
+
+variable "ami" {}
